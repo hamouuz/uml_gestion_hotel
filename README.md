@@ -37,7 +37,8 @@ UC7 -- UC8 : includes
 
 
 
-#Diagramme de classe : 
+# Diagramme de classe : 
+
 @startuml
 class Hotel {
   
@@ -94,7 +95,8 @@ Invoice "1" -- "1" Client
 ![image](https://github.com/hamouuz/uml_gestion_hotel/assets/118366904/5c5d1510-e803-4bbf-806c-8fc7d7b64256)
 
 
-#Diagramme d’activité : 
+# Diagramme d’activité : 
+
 
 @startuml
 start
@@ -114,7 +116,8 @@ stop
 
 
 
-#Diagramme de sequence :
+# Diagramme de sequence :
+
 
 @startuml
 actor Client
